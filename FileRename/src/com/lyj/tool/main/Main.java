@@ -8,6 +8,7 @@ import com.lyj.tool.util.CommonUtil;
 public class Main {
 
 	/**
+	 * @author yajunlaw
 	 * @param args
 	 * @throws IOException 
 	 */
